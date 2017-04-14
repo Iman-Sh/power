@@ -5,7 +5,11 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/*---------------
+iman shirali 9450016
 
+mohammad hasan helali jula
+*/
 
 public class power {
         static int[] A;
